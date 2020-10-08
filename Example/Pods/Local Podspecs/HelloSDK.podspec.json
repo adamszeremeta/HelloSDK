@@ -1,0 +1,22 @@
+{
+  "name": "HelloSDK",
+  "version": "0.1.0",
+  "summary": "A short description of HelloSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Szeremeta Adam/HelloSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Szeremeta Adam": "Adam.Szeremeta@dreamlab.pl"
+  },
+  "source": {
+    "git": "https://github.com/Szeremeta Adam/HelloSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HelloSDK/Classes/**/*"
+}

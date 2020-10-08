@@ -1,0 +1,16 @@
+PODS:
+  - HelloSDK (0.1.0)
+
+DEPENDENCIES:
+  - HelloSDK (from `../`)
+
+EXTERNAL SOURCES:
+  HelloSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HelloSDK: bee0f5bcfaf739479c362fd4279319d1418205c0
+
+PODFILE CHECKSUM: 900189e17a0483bb2accfb8b40098b589bec8fd1
+
+COCOAPODS: 1.9.3
