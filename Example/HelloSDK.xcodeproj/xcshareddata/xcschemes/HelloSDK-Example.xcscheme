@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-               BuildableName = "HelloSDK_Example.app"
-               BlueprintName = "HelloSDK_Example"
+               BuildableName = "HelloSDK-Example.app"
+               BlueprintName = "HelloSDK-Example"
                ReferencedContainer = "container:HelloSDK.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -31,8 +31,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "HelloSDK_Example.app"
-            BlueprintName = "HelloSDK_Example"
+            BuildableName = "HelloSDK-Example.app"
+            BlueprintName = "HelloSDK-Example"
             ReferencedContainer = "container:HelloSDK.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -54,8 +54,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "HelloSDK_Example.app"
-            BlueprintName = "HelloSDK_Example"
+            BuildableName = "HelloSDK-Example.app"
+            BlueprintName = "HelloSDK-Example"
             ReferencedContainer = "container:HelloSDK.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -71,8 +71,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "HelloSDK_Example.app"
-            BlueprintName = "HelloSDK_Example"
+            BuildableName = "HelloSDK-Example.app"
+            BlueprintName = "HelloSDK-Example"
             ReferencedContainer = "container:HelloSDK.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

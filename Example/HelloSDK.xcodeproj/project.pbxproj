@@ -19,7 +19,7 @@
 		001217649708E163B2F2CEFA /* Pods_HelloSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HelloSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		071B8544F0154A8B3D22EEF7 /* Pods-HelloSDK_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloSDK_Example.release.xcconfig"; path = "Target Support Files/Pods-HelloSDK_Example/Pods-HelloSDK_Example.release.xcconfig"; sourceTree = "<group>"; };
 		22C94EBC6E18FC028A033C90 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		607FACD01AFB9204008FA782 /* HelloSDK_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloSDK_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		607FACD01AFB9204008FA782 /* HelloSDK-Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HelloSDK-Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		607FACD71AFB9204008FA782 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -72,7 +72,7 @@
 		607FACD11AFB9204008FA782 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				607FACD01AFB9204008FA782 /* HelloSDK_Example.app */,
+				607FACD01AFB9204008FA782 /* HelloSDK-Example.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -122,9 +122,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		607FACCF1AFB9204008FA782 /* HelloSDK_Example */ = {
+		607FACCF1AFB9204008FA782 /* HelloSDK-Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "HelloSDK_Example" */;
+			buildConfigurationList = 607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "HelloSDK-Example" */;
 			buildPhases = (
 				714AF71C1E6E9E346B76587C /* [CP] Check Pods Manifest.lock */,
 				7D83ED23252EFF72009AE112 /* SwiftLint */,
@@ -136,9 +136,9 @@
 			);
 			dependencies = (
 			);
-			name = HelloSDK_Example;
+			name = "HelloSDK-Example";
 			productName = HelloSDK;
-			productReference = 607FACD01AFB9204008FA782 /* HelloSDK_Example.app */;
+			productReference = 607FACD01AFB9204008FA782 /* HelloSDK-Example.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -171,7 +171,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				607FACCF1AFB9204008FA782 /* HelloSDK_Example */,
+				607FACCF1AFB9204008FA782 /* HelloSDK-Example */,
 			);
 		};
 /* End PBXProject section */
@@ -407,7 +407,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "HelloSDK_Example" */ = {
+		607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "HelloSDK-Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				607FACF01AFB9204008FA782 /* Debug */,
