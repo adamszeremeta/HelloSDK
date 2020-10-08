@@ -26,5 +26,7 @@ xcuserdata
 *.ipa
 
 ## CocoaPods
+build
 Pods/*
 Example/Pods
+./Example/Pods

@@ -1,11 +1,7 @@
+platform :ios, '11.0'
 use_frameworks!
 
 target 'HelloSDK_Example' do
   pod 'HelloSDK', :path => '../'
   pod 'SwiftLint'
-
-  target 'HelloSDK_Tests' do
-    inherit! :search_paths
-
-  end
 end
