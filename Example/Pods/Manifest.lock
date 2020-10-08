@@ -1,8 +1,14 @@
 PODS:
   - HelloSDK (0.1.0)
+  - SwiftLint (0.40.3)
 
 DEPENDENCIES:
   - HelloSDK (from `../`)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - SwiftLint
 
 EXTERNAL SOURCES:
   HelloSDK:
@@ -10,7 +16,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   HelloSDK: bee0f5bcfaf739479c362fd4279319d1418205c0
+  SwiftLint: dfd554ff0dff17288ee574814ccdd5cea85d76f7
 
-PODFILE CHECKSUM: 900189e17a0483bb2accfb8b40098b589bec8fd1
+PODFILE CHECKSUM: 371f3db714723d0f0f99cc9b44eb2b95e5ebe9f6
 
 COCOAPODS: 1.9.3
