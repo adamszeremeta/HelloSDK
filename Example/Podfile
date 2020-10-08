@@ -2,7 +2,7 @@ use_frameworks!
 
 target 'HelloSDK_Example' do
   pod 'HelloSDK', :path => '../'
-  Pod 'SwiftLint'
+  pod 'SwiftLint'
 
   target 'HelloSDK_Tests' do
     inherit! :search_paths
