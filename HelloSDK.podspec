@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HelloSDK'
-  s.version          = '0.0.1'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of HelloSDK.'
 
   s.description      = <<-DESC
