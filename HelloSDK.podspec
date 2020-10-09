@@ -23,5 +23,3 @@ Pod::Spec.new do |s|
   s.frameworks = 'UIKit', 'WebKit'
 
 end
-
-
