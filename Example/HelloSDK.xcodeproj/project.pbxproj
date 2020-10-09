@@ -27,7 +27,7 @@
 		607FACDC1AFB9204008FA782 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		607FACDF1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		63B9C9F2CEB77F5F856123F8 /* Pods-HelloSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloSDK_Example.debug.xcconfig"; path = "Target Support Files/Pods-HelloSDK_Example/Pods-HelloSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		7DD53D12252F31B7008C48C9 /* Changelog */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Changelog; path = ../Changelog; sourceTree = "<group>"; };
+		7DD53D12252F31B7008C48C9 /* Changelogs */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Changelogs; path = ../Changelogs; sourceTree = "<group>"; };
 		85E59D4A517BFB8380A1CBB5 /* Pods-HelloSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloSDK_Tests.debug.xcconfig"; path = "Target Support Files/Pods-HelloSDK_Tests/Pods-HelloSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8A85083D52608AD123BE136A /* Pods-HelloSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloSDK_Tests.release.xcconfig"; path = "Target Support Files/Pods-HelloSDK_Tests/Pods-HelloSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D6085D825EAD519F51E69BBF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				7DD53D12252F31B7008C48C9 /* Changelog */,
+				7DD53D12252F31B7008C48C9 /* Changelogs */,
 				E4055B4921FA4761D36C1F9B /* HelloSDK.podspec */,
 				D6085D825EAD519F51E69BBF /* README.md */,
 				22C94EBC6E18FC028A033C90 /* LICENSE */,
